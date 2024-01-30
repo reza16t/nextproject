@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "standard",
+    "prettier",
+    "prettier-plugin-tailwindcss"
+  ],
+  "rules": {
+    "react/prop-types": "off"
+  }
+}
