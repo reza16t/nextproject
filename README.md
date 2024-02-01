@@ -38,9 +38,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 npm install eslint-config-standard
 npm install eslint-plugin-tailwindcss
 npm install eslint-config-prettier
-"extends": [
-"next/core-web-vitals",
-"standard",
-"plugin:tailwindcss/recommended",
-"prettier"
-]
